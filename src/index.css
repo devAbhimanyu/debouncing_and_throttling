@@ -1,0 +1,16 @@
+body{
+    height: 100vh;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    flex-direction: column;
+}
+.search{
+    height:20px;
+    border-radius: 10px;
+    padding: 5px;
+    margin-top:5px;
+}
